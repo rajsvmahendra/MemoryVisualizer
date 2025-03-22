@@ -20,3 +20,14 @@ A Python-based memory allocation simulator that demonstrates paging and memory f
 1️⃣ **Clone the repository:**  
    ```bash
    git clone https://github.com/rajsvmahendra/MemoryVisualizer.git
+
+## 📸 Screenshots
+
+### 🖥️ Main GUI Window:
+![Main GUI](https://raw.githubusercontent.com/rajsvmahendra/MemoryVisualizer/main/main_gui.png)
+
+### 📊 After Allocating Memory:
+![After Allocation](https://raw.githubusercontent.com/rajsvmahendra/MemoryVisualizer/main/after_allocation.png)
+
+### ❌ After Deallocating Memory:
+![After Deallocation](https://raw.githubusercontent.com/rajsvmahendra/MemoryVisualizer/main/after_deallocation.png)
